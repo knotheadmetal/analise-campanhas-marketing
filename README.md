@@ -51,6 +51,19 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 - Total gasto por categorias e países.  
 - Total gasto por ano e país.  
 
+## ✨ Principais Insights de Dados  
+A partir das análises realizadas, destacamos os seguintes insights:  
+1. **Performance de Campanhas:**  
+   - As campanhas com maior retorno foram direcionadas a clientes com maior grau de escolaridade e sem filhos em casa.  
+2. **Segmentação Demográfica:**  
+   - Clientes casados com filhos apresentam um comportamento de compra mais consistente, especialmente em produtos comprados online.  
+3. **Padrões de Gasto por País:**  
+   - O país "A" lidera em total de gastos, com um pico significativo no ano de 2023.  
+4. **Correlação entre Salário e Gasto:**  
+   - Clientes com maior salário anual gastam proporcionalmente menos em campanhas de catálogo e mais em compras online.  
+5. **Efetividade do Canal de Compra:**  
+   - As compras realizadas na loja física apresentam maior ticket médio, mas representam uma menor proporção do total de compras.  
+
 ## 🗂️ Estrutura do Projeto  
 - **Projeto-Marketing-1.0.pbix:** Arquivo principal do Power BI com as 4 visões detalhadas.  
 - **dados_marketing.csv:** Base de dados utilizada para as análises.  
@@ -58,4 +71,15 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 ## 🚀 Como Utilizar  
 1. **Clone este repositório:**  
    ```bash  
-   git clone https://github.com/knotheadmetal/analise-campanhas-marketing  
+   git clone https://github.com/knotheadmetal/analise-campanhas-marketing
+2. **Pré-requisitos: Instale o Power BI Desktop.
+3. **Abrindo o Arquivo: Baixe Projeto-Marketing-1.0.pbix e abra-o no Power BI Desktop.
+4. **Exploração do Dashboard: Utilize os filtros e segmentadores para personalizar as análises.
+
+## 🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, fazer um fork e enviar um pull request com sugestões de melhorias.
+
+## 📞 Contato
+LinkedIn: https://www.linkedin.com/in/rafaelsantosti/
+Portfolio: https://github.com/knotheadmetal
+E-mail: rafaelsantosti@outlook.com
