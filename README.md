@@ -72,14 +72,14 @@ A partir das análises realizadas, destacamos os seguintes insights:
 1. **Clone este repositório:**  
    ```bash  
    git clone https://github.com/knotheadmetal/analise-campanhas-marketing
-2. **Pré-requisitos: Instale o Power BI Desktop.
-3. **Abrindo o Arquivo: Baixe Projeto-Marketing-1.0.pbix e abra-o no Power BI Desktop.
-4. **Exploração do Dashboard: Utilize os filtros e segmentadores para personalizar as análises.
+2. **Pré-requisitos: Instale o Power BI Desktop.**
+3. **Abrindo o Arquivo: Baixe Projeto-Marketing-1.0.pbix e abra-o no Power BI Desktop.**
+4. **Exploração do Dashboard: Utilize os filtros e segmentadores para personalizar as análises.**
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, fazer um fork e enviar um pull request com sugestões de melhorias.
 
 ## 📞 Contato
-LinkedIn: https://www.linkedin.com/in/rafaelsantosti/
-Portfolio: https://github.com/knotheadmetal
-E-mail: rafaelsantosti@outlook.com
+LinkedIn: https://www.linkedin.com/in/rafaelsantosti/                      
+Portfolio: https://github.com/knotheadmetal                        
+E-mail: rafaelsantosti@outlook.com                                         
