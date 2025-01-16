@@ -58,7 +58,7 @@ A partir das análises realizadas, destacamos os seguintes insights:
 2. **Segmentação Demográfica:**  
    - Clientes casados com filhos apresentam um comportamento de compra mais consistente, especialmente em produtos comprados online.  
 3. **Padrões de Gasto por País:**  
-   - O país "A" lidera em total de gastos, com um pico significativo no ano de 2023.  
+   - O país "Estados Unidos" lidera em total de gastos, com um pico significativo no ano de 2023.  
 4. **Correlação entre Salário e Gasto:**  
    - Clientes com maior salário anual gastam proporcionalmente menos em campanhas de catálogo e mais em compras online.  
 5. **Efetividade do Canal de Compra:**  
