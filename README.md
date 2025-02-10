@@ -1,32 +1,3 @@
-Entendido! Você já tem um README bem estruturado, mas posso ajudar a realizar as alterações que deseja. Por favor, me informe quais ajustes específicos você gostaria de fazer. Aqui estão algumas sugestões comuns que podem ser úteis para melhorar ou personalizar o README:
-
----
-
-### **Sugestões de Alterações**
-1. **Adicionar uma seção de "Requisitos" ou "Pré-requisitos":**  
-   Detalhar melhor os softwares ou ferramentas necessárias para rodar o projeto.
-
-2. **Melhorar a seção "Como Utilizar":**  
-   Adicionar mais detalhes sobre como configurar o ambiente ou importar os dados no Power BI.
-
-3. **Incluir imagens do Dashboard:**  
-   Adicionar screenshots das visualizações do Power BI para dar uma prévia visual do projeto.
-
-4. **Organizar melhor os insights:**  
-   Usar bullet points ou tabelas para tornar os insights mais fáceis de ler.
-
-5. **Adicionar uma licença:**  
-   Incluir uma seção de licença para esclarecer como o código pode ser utilizado.
-
-6. **Personalizar o contato:**  
-   Adicionar links diretos para e-mail ou redes sociais.
-
----
-
-Aqui está uma versão revisada do seu README com algumas dessas melhorias aplicadas. Se precisar de algo específico, é só avisar!
-
----
-
 # 📊 Análise de Marketing - Power BI  
 
 Este repositório contém um dashboard em Power BI focado na análise de métricas de marketing. A base de dados utilizada, **dados_marketing.csv**, oferece informações sobre dados demográficos, comportamento de compra, gastos e engajamento do público em campanhas de marketing. O arquivo principal do Power BI, **Projeto-Marketing-1.0.pbix**, apresenta visualizações e insights para suportar decisões estratégicas de marketing.  
