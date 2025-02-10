@@ -2,8 +2,6 @@
 
 Este repositório contém um dashboard em Power BI focado na análise de métricas de marketing. A base de dados utilizada, **dados_marketing.csv**, oferece informações sobre dados demográficos, comportamento de compra, gastos e engajamento do público em campanhas de marketing. O arquivo principal do Power BI, **Projeto-Marketing-1.0.pbix**, apresenta visualizações e insights para suportar decisões estratégicas de marketing.  
 
-![Dashboard Preview](link-para-imagem-do-dashboard.png) *(Adicione uma imagem do dashboard aqui)*
-
 ---
 
 ## Objetivo do Projeto  
