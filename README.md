@@ -1,4 +1,4 @@
-# 📊 Análise de Marketing - Power BI  
+# Análise de Marketing - Power BI  
 
 Este repositório contém um dashboard em Power BI focado na análise de métricas de marketing. A base de dados utilizada, **dados_marketing.csv**, oferece informações sobre dados demográficos, comportamento de compra, gastos e engajamento do público em campanhas de marketing. O arquivo principal do Power BI, **Projeto-Marketing-1.0.pbix**, apresenta visualizações e insights para suportar decisões estratégicas de marketing.  
 
@@ -6,7 +6,7 @@ Este repositório contém um dashboard em Power BI focado na análise de métric
 
 ---
 
-## 🎯 Objetivo do Projeto  
+## Objetivo do Projeto  
 
 Os relatórios estão divididos em 4 visões principais:  
 
@@ -19,7 +19,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-## 📌 Objetivos das Análises  
+## Objetivos das Análises  
 
 - **Monitoramento de Campanhas:** Acompanhar o impacto das campanhas ao longo do tempo, identificando as mais eficazes.  
 - **Segmentação e Perfil do Público:** Explorar dados demográficos e financeiros para ajustar o público-alvo e segmentar campanhas.  
@@ -28,9 +28,9 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-## 🔍 Visões do Dashboard  
+## Visões do Dashboard  
 
-### 1. 🧑‍🤝‍🧑 Visão Geral do Cliente  
+### 1. Visão Geral do Cliente  
 **Objetivo:** Proporcionar uma visão geral dos tipos de clientes, segmentados por estado civil, grau de escolaridade e métricas de compra.  
 
 **Métricas Principais:**  
@@ -43,7 +43,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-### 2. 🛒 Visão Comportamento  
+### 2. Visão Comportamento  
 **Objetivo:** Explorar o comportamento de compra de clientes com filhos ou adolescentes.  
 
 **Métricas Principais:**  
@@ -54,7 +54,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-### 3. 📈 Visão Campanhas  
+### 3. Visão Campanhas  
 **Objetivo:** Analisar a performance das campanhas de marketing.  
 
 **Métricas Principais:**  
@@ -65,7 +65,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-### 4. 🏬 Visão Ponto de Vendas  
+### 4. Visão Ponto de Vendas  
 **Objetivo:** Analisar padrões de compras segmentados por categorias e países ao longo do tempo.  
 
 **Métricas Principais:**  
@@ -74,7 +74,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-## ✨ Principais Insights de Dados  
+## Principais Insights de Dados  
 
 | **Insight**                              | **Descrição**                                                                 |
 |------------------------------------------|-------------------------------------------------------------------------------|
@@ -86,14 +86,14 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-## 🗂️ Estrutura do Projeto  
+## Estrutura do Projeto  
 
 - **Projeto-Marketing-1.0.pbix:** Arquivo principal do Power BI com as 4 visões detalhadas.  
 - **dados_marketing.csv:** Base de dados utilizada para as análises.  
 
 ---
 
-## 🚀 Como Utilizar  
+## Como Utilizar  
 
 1. **Clone este repositório:**  
    ```bash  
@@ -113,7 +113,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-## 🤝 Contribuição  
+## Contribuição  
 
 Contribuições são bem-vindas! Siga os passos abaixo:  
 
@@ -130,7 +130,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 ---
 
-## 📞 Contato  
+## Contato  
 
 - **LinkedIn:** [Rafael Santos](https://www.linkedin.com/in/rafaelsantosti/)  
 - **Portfólio:** [GitHub](https://github.com/knotheadmetal)  
