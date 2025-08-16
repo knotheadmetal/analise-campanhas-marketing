@@ -4,7 +4,7 @@ Este repositório contém um dashboard em Power BI focado na análise de métric
 
 ---
 
-## Objetivo do Projeto  
+## Objetivo do Projeto   
 
 Os relatórios estão divididos em 4 visões principais:  
 
