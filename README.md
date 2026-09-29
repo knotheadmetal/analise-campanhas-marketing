@@ -17,7 +17,7 @@ Para cada visão, apresentamos variáveis, gráficos e medidas que fornecem aná
 
 ---
 
-## Objetivos das Análises  
+## Objetivos das Análises
 
 - **Monitoramento de Campanhas:** Acompanhar o impacto das campanhas ao longo do tempo, identificando as mais eficazes.  
 - **Segmentação e Perfil do Público:** Explorar dados demográficos e financeiros para ajustar o público-alvo e segmentar campanhas.  
